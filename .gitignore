@@ -9,7 +9,6 @@ __pycache__/
 venv/
 env/
 *.env
-*.sqlite3
 .python-version
 
 # macOS
